@@ -41,4 +41,3 @@ I turn fragmented technology organisations into teams that ship. Fifteen years f
 
 > Most of my work lives in private and client repositories, so this profile is quiet by design. The public trail is my site, and contributions to the tools my teams depend on.
 
-<!-- profile readme -->
