@@ -15,6 +15,14 @@ I turn fragmented technology organisations into teams that ship. Fifteen years f
 - Built a **Digital Factory from zero in under six months** as managing director of a new subsidiary; an AI risk engine took credit analysis from about two weeks to a day (Société Générale Equipment Finance).
 - **YODA**, an internal AI assistant for 150,000 employees years before ChatGPT, and an investor-relations app that won two 2016 awards (Société Générale).
 
+### In the open
+
+Most of my work lives in private and client repositories, but here is some of the public trail:
+
+- [`gatsby-source-personio`](https://github.com/sgefdf/gatsby-source-personio), a Gatsby source plugin I wrote and published to npm.
+- Merged worker-mode fixes to [OpenGento's Magento FrankenPHP base](https://github.com/opengento/magento2-frankenphp-base/pulls?q=is%3Apr+author%3Aacourtiol) ([#4](https://github.com/opengento/magento2-frankenphp-base/pull/4), [#6](https://github.com/opengento/magento2-frankenphp-base/pull/6)), part of the commerce tooling my teams run in production.
+- [alexandrecourtiol.com](https://alexandrecourtiol.com) and its publishing pipeline: Astro, self-hosted, deployed on every push.
+
 ### Tools I reach for
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
