@@ -4,7 +4,7 @@ Engineering and technology executive. I build and repair engineering organisatio
 
 I am looking for my next full-time role as a VP Engineering, CTO, Director or Head of Engineering, or CTPO. I am based near Toulouse and work remotely across Europe.
 
-[Website and CV](https://alexandrecourtiol.com) · [LinkedIn](https://www.linkedin.com/in/alexandre-courtiol/) · [Contact](mailto:hello@alexandrecourtiol.com)
+[Website and CV](https://alexandrecourtiol.com) · [LinkedIn](https://www.linkedin.com/in/alexandre-courtiol/) · [Contact form](https://alexandrecourtiol.com/contact/)
 
 ## What I have done
 
