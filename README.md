@@ -2,6 +2,8 @@
 
 **Director of Engineering at Groupe Chantelle.** My teams build and run online stores for five brands in ten countries. I came to retail from banking, where I set up the Berlin Digital Factory for Société Générale Equipment Finance.
 
+France · Remote
+
 [Website](https://alexandrecourtiol.com/) · [Site en français](https://alexandrecourtiol.com/fr/) · [LinkedIn](https://www.linkedin.com/in/alexandre-courtiol/) · [Contact](https://alexandrecourtiol.com/contact/)
 
 ## Code you can see
